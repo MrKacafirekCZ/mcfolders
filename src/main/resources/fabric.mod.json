@@ -1,29 +1,32 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "mcfolders",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "MC Folders",
+  "description": "A Minecraft mod that allows you to change directories for your worlds and resource packs",
   "authors": [
-    "Me!"
+    "MrKacafirekCZ"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "sources": "https://github.com/MrKacafirekCZ/mcfolders"
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/mcfolders/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "mrkacafirekcz.mcfolders.MCFoldersMod"
+    ],
+    "modmenu": [
+	  "mrkacafirekcz.mcfolders.modmenu.ModMenuIntegration"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "mcfolders.mixins.json"
   ],
 
   "depends": {
