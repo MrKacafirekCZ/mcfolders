@@ -6,15 +6,15 @@ A Minecraft mod that allows you to change directories for your worlds and resour
 
 ### Saves
 
-![Imgur](https://imgur.com/B7ThSpj.jpg)
+![Imgur](https://imgur.com/Xyh02t5.jpg)
 
 ### Resource packs
 
-![Imgur](https://imgur.com/Wmg7o7s.jpg)
+![Imgur](https://imgur.com/cn7tdZD.jpg)
 
 ### Config
 
-![Imgur](https://imgur.com/9wC8dBv.jpg)
+![Imgur](https://imgur.com/xefdPV6.jpg)
 
 ## Valid directory
 
