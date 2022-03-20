@@ -14,7 +14,7 @@ A Minecraft mod that allows you to change directories for your worlds and resour
 
 ### Config
 
-![Imgur](https://imgur.com/xefdPV6.jpg)
+![Imgur](https://imgur.com/9vjzn6C.jpg)
 
 ## Valid directory
 
